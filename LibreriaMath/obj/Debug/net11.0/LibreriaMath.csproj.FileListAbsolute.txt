@@ -1,0 +1,16 @@
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\bin\Debug\net11.0\LibreriaMath.exe
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\bin\Debug\net11.0\LibreriaMath.deps.json
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\bin\Debug\net11.0\LibreriaMath.runtimeconfig.json
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\bin\Debug\net11.0\LibreriaMath.runtimeconfig.dev.json
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\bin\Debug\net11.0\LibreriaMath.dll
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\bin\Debug\net11.0\LibreriaMath.pdb
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\obj\Debug\net11.0\LibreriaMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\obj\Debug\net11.0\LibreriaMath.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\obj\Debug\net11.0\LibreriaMath.AssemblyInfo.cs
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\obj\Debug\net11.0\LibreriaMath.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\obj\Debug\net11.0\LibreriaMath.dll
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\obj\Debug\net11.0\refint\LibreriaMath.dll
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\obj\Debug\net11.0\LibreriaMath.pdb
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\obj\Debug\net11.0\LibreriaMath.genruntimeconfig.cache
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\obj\Debug\net11.0\ref\LibreriaMath.dll
+C:\Users\adria\Desktop\EJERCICIO AE401\MiProyextoGit_ARS\LibreriaMath\obj\Debug\net11.0\Libreria.814B4E19.Up2Date
